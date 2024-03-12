@@ -5,7 +5,7 @@
 - Frameworks & Libraries: [BootStrap, React Js]
 - Tools & Technologies: [Git and GitHub]
 
-🚀 Check Out My Projects:
+🚀 Check Out My Projects: <br>
 Feel free to explore my repositories for more <br>
 details on the projects I've worked on.. <br>
 They showcase my skills and experiences in action!
