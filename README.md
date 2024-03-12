@@ -7,6 +7,7 @@
 
 💼 Let's Connect:
 - LinkedIn: [www.linkedin.com/in/imhimanshumishra]
+- Instagram: [https://www.instagram.com/bawraah?igsh=aGd6ejd0bnN1Z2hz]
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
 
